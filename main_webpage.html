@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, 
+    initial-scale=1.0">
+    <title>Food Searcher</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body> 
+
+    <div class = "container"> 
+        <div class = "meal-wrapper">
+            <div class = "meal-search"> 
+                <h2 class = "title" style="color:#6B5B95;">Find Food For Your Style</h2>
+                <blockquote >Food Is Where The Home Is.<br>
+                    <cite>- Guy Fieri</cite>
+                </blockquote>
+                <input type = "button" onclick = "window.location.href = 'quiz/question1.html';" value = "Take Quiz" />
+                <input type = "button" onclick = "window.location.href = 'feelinglucky.html';" value = "Feeling Lucky?" />
+            
+                <div class = "meal-search-box">
+                    <input type = "text" class = "search-control" placeholder = "Enter an ingredient" id = "search-input">
+                    <button type = "submit" class = "search-btn btn" id = "search-btn">
+                        <i class = "fas fa-search"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class = "meal-result">
+                <h2 class = "title" style="color:#ad026f;">Your Search Results:</h2>
+                <div id = "meal">
+                    <!-- meal item -->
+                    <!-- <div class = "meal-item">
+                        <div class = "meal-img">
+                            <img src = "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt = "food">
+                        </div>
+                        <div class = "meal-name">
+                            <h3>Potato Chips</h3>
+                            <a href = "#" class = "recipe-btn">Get Food Recipe</a>
+                        </div>
+                    </div> -->
+                    <!-- end of meal item -->
+                </div>
+            </div>
+
+            <div class = "meal-recipe">
+                <!-- close recipe popup -->
+                <button type = "button" class = "btn recipe-close-btn" id = "recipe-close-btn">
+                    <i class = "fas fa-times"></i>
+                </button>
+
+                <!-- meal content -->
+                <div class = "meal-details-content">
+                   <!-- <h2 class = "recipe-title">Name of Meals Here</h2>
+                   <p class = "recipe-category">Category Name</p>
+                   <div class = "recipe-instruction">
+                       <h3>Instructions: </h3>
+                       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia nulla vitae ut atque cumque odit harum corporis illum, tempora quas.</p>
+                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nulla sit error? Ipsum facere natus velit vero rerum quod explicabo minima debitis doloribus. Nam corporis ipsa cupiditate quam modi dicta.</p>
+                   </div>
+                   <div class = "recipe-meal-img">
+                       <img src = "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt = ""> 
+                   </div>
+                   <div class = "recipe-link">
+                       <a href = "#" target = "_blank">Watch Video</a>
+                   </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src = "searchMeal.js"></script>
+</body>
+</html>

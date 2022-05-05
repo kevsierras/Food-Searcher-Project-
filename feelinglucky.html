@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, 
+    initial-scale=1.0">
+    <title>Food Searcher</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+    <div style ="text-align:center;">
+        <div class = "header">
+            <h1 style="color:#6B5B95;"> <b>Feeling Lucky</b> </h1>
+            
+            <input type = "button" onclick = "window.location.href = 'main_webpage.html';" value = "Home" />
+            <input type = "button" onclick = "window.location.href = 'feelinglucky.html';" value = "Feeling Lucky?" />
+            <hr>
+        </div>
+
+    <div class="container">
+        <div class="row text-center">
+        <h3>
+            You sure you're feeling lucky?
+        </h3>
+        <h5> I guess you are. </h5>
+        <h5> Click the button. </h5>
+        <button class = "button-primary" id = "get-meal"> Get Random Meal </button>
+          
+        </div>
+        <div id = "show-meal" class = "row-meal"></div>
+    </div>
+
+    <script src = "randomMeal.js"></script>
+</body>
