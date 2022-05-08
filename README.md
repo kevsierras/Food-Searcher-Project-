@@ -11,11 +11,11 @@ Created by: Kim Eaton, Anthony Jirano, Jahnvi Panchal, Kevin Sierras, and Jimy B
 
 >If you have any issues with the use of this code you may contact:
 
->Kevin Sierras: kevinsierras96@gmail.com.
->Kim Eaton: keaton6@csu.fullerton.edu.
->Jimy Bombela: jimybombela@csu.fullerton.edu
->Jahnvi Pachel: jahnvi@csu.fullerton.edu
->Anthony Jirano: 
+* Kevin Sierras: kevinsierras96@gmail.com.
+* Kim Eaton: keaton6@csu.fullerton.edu.
+* Jimy Bombela: jimybombela@csu.fullerton.edu
+* Jahnvi Pachel: jahnvi@csu.fullerton.edu
+* Anthony Jirano: 
 ---
 **HOW TO USE:**
 
