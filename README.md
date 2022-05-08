@@ -2,7 +2,6 @@
 Created by: Kim Eaton, Anthony Jirano, Jahnvi Panchal, Kevin Sierras, and Jimy Bombela
 
 ---
-**READ ME**
 
 ### THIS WILL NOT BE MONETIZED AT ALL
 >This project was created for pur final project in Software Engineering at CSUF.
