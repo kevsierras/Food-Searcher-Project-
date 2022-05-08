@@ -1,4 +1,6 @@
 # Food-Searcher-Project-
+Created by: Kim Eaton, Anthony Jirano, Jahnvi Panchal, Kevin Sierras, and Jimy Bombela
+
 ---
 **READ ME**
 
