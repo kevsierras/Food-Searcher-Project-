@@ -31,4 +31,4 @@
 ---
 **API:**
 
->This project uses the API [the MEALEDB](https://www.themealdb.com/)for results of food searches, and feeling lucky. 
+>This project uses the API [the MEALEDB](https://www.themealdb.com/) for results of food searches, and feeling lucky. 
