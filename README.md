@@ -1,10 +1,10 @@
 # Food-Searcher-Project-
-READ ME
+**READ ME**
 
-This project was created for pur final project in Software Engineering at CSUF.
-Food Searcher is a website that allows the user to search for a food based on an ingredient, take a quiz to decide what to make or click a feeling lucky button to be given a random food recipe.
+>This project was created for pur final project in Software Engineering at CSUF.
+>Food Searcher is a website that allows the user to search for a food based on an ingredient, take a quiz to decide what to make or click a feeling lucky button to be >given a random food recipe.
 
-CONTACT
+**CONTACT**
 
 If you have any issues with the use of this code you may contact:
 
@@ -18,19 +18,19 @@ Jahnvi Pachel: jahnvi@csu.fullerton.edu
 
 Anthony Jirano: 
 
-HOW TO USE:
+**HOW TO USE:**
 
 This project is not currently running on a public server.
 To view the code we suggest using Visual Studio Code with the Liverserver Add on.
 
-What it does:
+**What it does:**
 
 Allows for search for recipes, a feeling lucky button and quiz.
 
-What it doesn't do:
+**What it doesn't do:**
 
 We did not implement the quiz results to show a recipe result, just a name an image. 
 
-API:
+**API:**
 
 This project uses the API theMEALDB for results of food searches, and feeling lucky. information about this API can be found here: https://www.themealdb.com/
