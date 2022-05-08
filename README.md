@@ -19,6 +19,7 @@
 
 >This project is not currently running on a public server.
 >To view the code we suggest using Visual Studio Code with the Liverserver Add on.
+>
 ---
 **What it does:**
 
@@ -30,4 +31,4 @@
 ---
 **API:**
 
->This project uses the API [the MEALEDB](https://www.themealdb.com/)theMEALDB for results of food searches, and feeling lucky. 
+>This project uses the API [the MEALEDB](https://www.themealdb.com/)for results of food searches, and feeling lucky. 
