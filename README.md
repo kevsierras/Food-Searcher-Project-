@@ -4,6 +4,7 @@ Created by: Kim Eaton, Anthony Jirano, Jahnvi Panchal, Kevin Sierras, and Jimy B
 ---
 **READ ME**
 
+### THIS WILL NOT BE MONETIZED AT ALL
 >This project was created for pur final project in Software Engineering at CSUF.
 >Food Searcher is a website that allows the user to search for a food based on an ingredient, take a quiz to decide what to make or click a feeling lucky button to be >given a random food recipe.
 ---
