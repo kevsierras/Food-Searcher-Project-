@@ -15,7 +15,7 @@ Created by: Kim Eaton, Anthony Jirano, Jahnvi Panchal, Kevin Sierras, and Jimy B
 * Kim Eaton: keaton6@csu.fullerton.edu.
 * Jimy Bombela: jimybombela@csu.fullerton.edu
 * Jahnvi Pachel: jahnvi@csu.fullerton.edu
-* Anthony Jirano: 
+* Anthony Jirano: jirano@csu.fullerton.edu
 ---
 **HOW TO USE:**
 
